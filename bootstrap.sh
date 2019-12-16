@@ -8,6 +8,6 @@ echo "Installing nodejs..."
 
 echo "Successfull installation without error. \a"
 
-sudo /etc/init.d/ngeix start
+sudo /etc/init.d/nginx start
 
 echo "Successfully started ngeix service"
