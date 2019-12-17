@@ -10,4 +10,4 @@ echo "Successfull installation without error. \a"
 
 sudo /etc/init.d/nginx start
 
-echo "Successfully started ngeix service"
+echo "Successfully started nginx service"
